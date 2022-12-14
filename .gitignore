@@ -1,6 +1,8 @@
 .flaskenv
 .env
+.idea
 venv
+__pycache__
 
-kabum-price-analysis-25449-firebase-adminsdk-s9ltn-a60bd4706e.json
+*.json
 saves_logs.txt
